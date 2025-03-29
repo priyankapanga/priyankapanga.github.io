@@ -24,6 +24,11 @@ Finance Dashboard Web-app: HTML/CSS, React+ JavaScript, Node.js, Express.js, Mon
 - point one
 - point two
 
+BugTracker CLI App
+- desc 1
+- desc 2
+- desc 3
+  
 Titanic Survival Prediction: Python, Numpy, Pandas, Matpotlib
 - Predicting survival of people aboard a simulated titanic ship
 
