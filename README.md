@@ -20,17 +20,13 @@ factors like box office revenue, director, budget, genre, etc.
 - Uploaded the dataset on Kaggle and the entire project on
 Github(https://github.com/PurpleGlitterMoon/An-Analysis-on-Studio-Ghibli-Films.git)
 
-Finance Dashboard Web-app: HTML/CSS, React+ JavaScript, Node.js, Express.js, MongoDB
-- point one
-- point two
-
-BugTracker CLI App
-- desc 1
-- desc 2
-- desc 3
+OnceUponAMood: Swift, SwiftUI with API Connection & Generative AI
+- An IOS app that analyses user's data entries and provides advice, movies, feedback
+- Uses OpenAI's API for responses with tailored prompts
   
 Titanic Survival Prediction: Python, Numpy, Pandas, Matpotlib
 - Predicting survival of people aboard a simulated titanic ship
+
 
 
 
