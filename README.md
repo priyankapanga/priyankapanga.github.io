@@ -5,10 +5,11 @@ B.S in Computer Science, Minor in Creative writing - Rutgers University, New Bru
 
 ### Experience
 Accounting intern part-time @EcloudLabsInc 
--managing invoices
--assisting communication with clients and employees
 
 StudyBuddy founder @ Inventure Academy
+
+Research Project Internship @ GoDoNew : Exploring bias in the world of AI-screening
+
 
 ### Projects
 
@@ -20,13 +21,17 @@ Github(https://github.com/PurpleGlitterMoon/An-Analysis-on-Studio-Ghibli-Films.g
 
 Titanic Survival Prediction w Random Forest vs Logistic Regression: Python, Numpy, Pandas, Matpotlib
 - Predicting survival of people aboard a simulated titanic ship
-- 
+  
 OnceUponAMood: Swift, SwiftUI with API Connection & Generative AI
 - An IOS app that analyses user's data entries and provides advice, movies, feedback
 - Uses OpenAI's API for responses with tailored prompts
   
+  (Have also made weather and choose-your-own adventure game apps in Swift)
+  
 
-
+### Courses
+Pandas + Data visualisation + Data cleaning on Kaggle
+Google's AI/ML Crash Course 
 
 
 
