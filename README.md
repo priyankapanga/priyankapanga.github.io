@@ -3,7 +3,8 @@
 B.S in Computer Science, Minor in Creative writing - Rutgers University, New Brunswick (2027)
 
 ### Experience
-Accounting intern part-time @EcloudLabsInc 
+
+Operations assistant: part-time @EcloudLabsInc 
 
 StudyBuddy founder @ Inventure Academy
 
@@ -18,7 +19,7 @@ factors like box office revenue, director, budget, genre, etc.
 - Uploaded the dataset on Kaggle and the entire project on
 Github(https://github.com/PurpleGlitterMoon/An-Analysis-on-Studio-Ghibli-Films.git)
 
-Titanic Survival Prediction w Random Forest vs Logistic Regression: Python, Numpy, Pandas, Matpotlib
+Titanic Survival Prediction w Random Forest vs Logistic Regression: Python, Numpy, Pandas, Scikit-learn
 - Predicting survival of people aboard a simulated titanic ship
   
 OnceUponAMood: Swift, SwiftUI with API Connection & Generative AI
