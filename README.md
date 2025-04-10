@@ -1,4 +1,3 @@
-# CS+ Creative Writing Sophomore
 
 ### Education
 B.S in Computer Science, Minor in Creative writing - Rutgers University, New Brunswick (2027)
