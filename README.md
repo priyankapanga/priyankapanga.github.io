@@ -1,29 +1,6 @@
 ### Education
 **B.S in Computer Science, Minor in Creative Writing** – Rutgers University, New Brunswick (2027)
 
-### Experience
-
-- **Operations Assistant** (part-time)(current) @ [EcloudLabsInc](https://ecloudlabs.com)
-  
-  - Manage invoicing and accounts, ensuring accuracy and efficiency in financial processes
-  - Part of talent acquisition team, bridging communication between clients and potential employee
-  
-- **StudyBuddy Co-Founder** @ Inventure Academy
-
-  -  Launched a peer-to-peer mentorship program while in high school, spanning grades 1–12, fostering academic
-     collaboration across school levels.
-  -  Presented the program at the Schools of The Future Conference hosted by The Teacher Foundation.
-  -  Developed and managed the mentee-mentor matching process and conducted mentor training sessions.
-  -  Directed all email communications with parents, students, and faculty, ensuring smooth program operations.
-  -  The program is widely adapted and has been used in the school since 2021.
-  
-  
-- **Research Project Internship** @ GoDoNew – Exploring bias in the world of AI-screening
-
-  - Conducted research on using Artificial Intelligence to reduce bias in employee screening during the hiring process.
-  - Evaluated the importance of creating equitable datasets for machine learning models.
-  - Designed a rubric for AI screening tools to ensure alignment with employers’ fairness standards and requirements.
-
 ### Projects (Please click on the titles to view the projects!)
 
 #### 🎥 [Studio Ghibli Films Revenue Analysis](https://priyankapanga-studio-ghibli-revenue-analysis.streamlit.app)
@@ -65,6 +42,31 @@ An AI-powered journaling app for GenZ that detects users' moods from journal ent
 
 
 [Devpost Link](https://devpost.com/software/soulscribe-csbx4p)
+
+_____
+
+### Experience
+
+- **Operations Assistant** (part-time)(current) @ [EcloudLabsInc](https://ecloudlabs.com)
+  
+  - Manage invoicing and accounts, ensuring accuracy and efficiency in financial processes
+  - Part of talent acquisition team, bridging communication between clients and potential employee
+  
+- **StudyBuddy Co-Founder** @ Inventure Academy
+
+  -  Launched a peer-to-peer mentorship program while in high school, spanning grades 1–12, fostering academic
+     collaboration across school levels.
+  -  Presented the program at the Schools of The Future Conference hosted by The Teacher Foundation.
+  -  Developed and managed the mentee-mentor matching process and conducted mentor training sessions.
+  -  Directed all email communications with parents, students, and faculty, ensuring smooth program operations.
+  -  The program is widely adapted and has been used in the school since 2021.
+  
+  
+- **Research Project Internship** @ GoDoNew – Exploring bias in the world of AI-screening
+
+  - Conducted research on using Artificial Intelligence to reduce bias in employee screening during the hiring process.
+  - Evaluated the importance of creating equitable datasets for machine learning models.
+  - Designed a rubric for AI screening tools to ensure alignment with employers’ fairness standards and requirements.
 
 ---
 
