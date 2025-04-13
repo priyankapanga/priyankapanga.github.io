@@ -55,20 +55,18 @@ I explored what makes a Studio Ghibli film successful at the box office by clean
 
 ---
 
-#### 🎭 [OnceUponAMood (iOS App)](https://github.com/priyankapanga/OnceUponAMood)
-**Tools:** Swift, SwiftUI, OpenAI API  
-An iOS app that analyzes users' mood entries and gives personalized feedback, advice, and media suggestions.  
-- Uses **OpenAI's API** to generate creative, mood-specific content  
-- Features daily journaling, AI-powered responses, and fun UI interactions  
+#### 🎭 [OnceUponAMood (iOS App, submitted to HackHERS Hackathon 2025)](https://github.com/priyankapanga/OnceUponAMood)
+**Tools:** Xcode (Swift, SwiftUI), OpenAI API  
+An AI-powered journaling app for GenZ that detects users' moods from journal entries and offers personalized advice, movie recommendations, and music suggestions.  
+- Built the app using Xcode, Swift, and SwiftUI for a seamless, responsive user interface.
+- Integrated OpenAI’s API for sentiment analysis and tailored recommendations based on journal entries.
+- Designed a user-friendly and calming interface to encourage regular journaling and emotional exploration.
+- Focused on mood-based personalization to improve user engagement and emotional well-being, specifically tailored to GenZ.
 
 
 [Devpost Link](https://devpost.com/software/soulscribe-csbx4p)
 
 ---
-
-### Courses
-- Pandas + Data Visualization + Intro to Machine Learning on Kaggle  
-- Google's AI/ML Crash Course (in progress)
 
 ### Sources for the Images on this page: 
 https://ghiblicollection.com
