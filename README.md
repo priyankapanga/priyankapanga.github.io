@@ -47,7 +47,7 @@ _____
 
 ### Experience
 
-- **Operations Assistant** (part-time)(current) @ [EcloudLabsInc](https://ecloudlabs.com)
+- **Operations Assistant** (part-time)(current) @ eCLOUD Labs Inc
   
   - Manage invoicing and accounts, ensuring accuracy and efficiency in financial processes
   - Part of talent acquisition team, bridging communication between clients and potential employee
