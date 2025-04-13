@@ -13,7 +13,7 @@ I explored what makes a Studio Ghibli film successful at the box office by clean
 - Processed and visualized data using **Pandas**, **NumPy**, **Seaborn**
 - Built an interactive dashboard using **Streamlit**
 - Visualized trends with **Seaborn**, **Excel**, and **Google Sheets**  
-📈 The dataset gained **50+ downloads on Kaggle**, showing strong community interest.  
+-> The dataset gained **50+ downloads on Kaggle**, showing strong community interest.  
 
 [Link to github repo](https://github.com/priyankapanga/Studio-Ghibli-Revenue-Analysis)
 
