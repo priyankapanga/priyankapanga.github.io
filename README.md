@@ -45,7 +45,7 @@ I explored what makes a Studio Ghibli film successful at the box office by clean
 
 #### 🚢 [Titanic Survival Prediction: Random Forest vs Logistic Regression](https://github.com/priyankapanga/Titanic-Survival-Prediction)
 
-    <img src="images/how-to-draw-the-titanic-titanic_5e4c8e261e6bd8.95988569_34328_3_4.jpg" width="600"/>
+   <img src="images/how-to-draw-the-titanic-titanic_5e4c8e261e6bd8.95988569_34328_3_4.jpg" width="600"/>
 
 **Tools:** Python, NumPy, Pandas, Scikit-learn, Jupyter Notebooks 
 - Used **scikit-learn** to compare **Logistic Regression** and **Random Forest** models  
