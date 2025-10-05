@@ -11,7 +11,7 @@
 **Tools:** Python, PyTorch, HuggingFace, Streamlit
 
  Built and deployed a **DistilBERT-based text classification** model on the SNIPS dataset with **7 possible
-user-intents**, achieving **95.73% accuracy**
+user-intents**, achieving **99.156 % accuracy**
 - Implemented data preprocessing, tokenization, and stratified train/validation/test splits in both Logistic
 Rgression and DistilBERT using **Pandas, scikit-learn, and Hugging Face Datasets**
 - Fine-tuned DistilBERT with Hugging Face Transformers and **visualized results with confusion matrices**
