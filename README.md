@@ -4,7 +4,7 @@
 ### Projects (Please click on the titles to view the projects!)
 
 
-#### 🎥 [Intent Classifier with DistilBERT Transformer](https://bert-intent-classification.streamlit.app/)
+#### 🔍 [Intent Classifier with DistilBERT Transformer](https://bert-intent-classification.streamlit.app/)
 
   <img src="images/intentclassifier_landingpage.png" height="300" width="600"/>
 
