@@ -6,7 +6,7 @@ https://bert-intent-classification.streamlit.app/
 
 #### 🎥 [Studio Ghibli Films Revenue Analysis](https://bert-intent-classification.streamlit.app/)
 
-  <img src="intentclassifier_landingpage.png" width="600"/>
+  <img src="images/intentclassifier_landingpage.png" width="600"/>
 
 **Tools:** Python, PyTorch, HuggingFace, Streamlit
 
