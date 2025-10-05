@@ -2,11 +2,11 @@
 **B.S in Computer Science, Minor in Creative Writing** – Rutgers University, New Brunswick (2027)
 
 ### Projects (Please click on the titles to view the projects!)
-https://bert-intent-classification.streamlit.app/
 
-#### 🎥 [Studio Ghibli Films Revenue Analysis](https://bert-intent-classification.streamlit.app/)
 
-  <img src="images/intentclassifier_landingpage.png" width="600"/>
+#### 🎥 [Intent Classifier with DistilBERT Transformer](https://bert-intent-classification.streamlit.app/)
+
+  <img src="images/intentclassifier_landingpage.png" height="300" width="600"/>
 
 **Tools:** Python, PyTorch, HuggingFace, Streamlit
 
