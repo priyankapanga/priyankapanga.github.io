@@ -2,6 +2,26 @@
 **B.S in Computer Science, Minor in Creative Writing** – Rutgers University, New Brunswick (2027)
 
 ### Projects (Please click on the titles to view the projects!)
+https://bert-intent-classification.streamlit.app/
+
+#### 🎥 [Studio Ghibli Films Revenue Analysis](https://bert-intent-classification.streamlit.app/)
+
+  <img src="intentclassifier_landingpage.png" width="600"/>
+
+**Tools:** Python, PyTorch, HuggingFace, Streamlit
+
+ Built and deployed a **DistilBERT-based text classification** model on the SNIPS dataset with **7 possible
+user-intents**, achieving **95.73% accuracy**
+- Implemented data preprocessing, tokenization, and stratified train/validation/test splits in both Logistic
+Rgression and DistilBERT using **Pandas, scikit-learn, and Hugging Face Datasets**
+- Fine-tuned DistilBERT with Hugging Face Transformers and **visualized results with confusion matrices**
+and classification reports, also **comparing performance tradeoffs**
+- **Deployed model on Hugging Face Hub** and built an **interactive Streamlit app** for real-time intent
+prediction
+
+[Link to github repo](https://github.com/priyankapanga/Intent-Classification)
+
+
 
 #### 🎥 [Studio Ghibli Films Revenue Analysis](https://priyankapanga-studio-ghibli-revenue-analysis.streamlit.app)
 
