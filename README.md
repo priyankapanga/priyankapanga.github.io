@@ -4,13 +4,10 @@
 Hi! This is my portfolio for all my coding projects. 
 Here is a summary of my experience: 
 
-- **Applied AI Engineering Fellow**  @ CodePath
-
-- Using Claude Code AI-Native engineering, learning to critically evaluate, debug, and improve AI-generated code
-- Collaborating on open source projects and large-scale codebases, using AI to explore, analyze, and extend code,
-- Building chatbots and summarization tools
+ **Applied AI Engineering Fellow**  @ CodePath
+- Using Claude Code AI-Native engineering, learning to critically evaluate, debug, and improve AI-generated code, as well as building chatbots and summarization
   
-- **Machine Learning Intern** @ eCLOUD Labs Inc
+ **Machine Learning Intern** @ eCLOUD Labs Inc
 -  Building an end-to-end NLP-based resume authenticity detection system (anti-fraud tool) using Python, Pandas, Scikit-learn, and Regex to extract features like broken links and date inconsistencies.
   
 ### Projects (Please click on the titles to view the projects)
